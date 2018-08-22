@@ -20,3 +20,9 @@ https://raw.githubusercontent.com/coralfox/MiscItems/master/MyBookshelf/404.txt
 452书源(带发现).txt
 
 https://raw.githubusercontent.com/coralfox/MiscItems/master/MyBookshelf/452.txt
+
+
+
+替换净化规则
+
+https://raw.githubusercontent.com/coralfox/MiscItems/master/MyBookshelf/myBookReplaceRule.txt
