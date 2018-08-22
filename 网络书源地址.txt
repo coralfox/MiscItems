@@ -1,22 +1,12 @@
-# MiscItems
-è®¸å¤šè®¸å¤šæ‚ä¸ƒæ‚å…«
-
-
-
-## ä¹¦æºåœ°å€
-
-422ä¹¦æºï¼ˆå¸¦å‘ç°ï¼‰.txt
+ÍøÂçÊéÔ´µØÖ·
+422ÊéÔ´£¨´ø·¢ÏÖ£©.txt
 
 https://raw.githubusercontent.com/coralfox/MiscItems/master/MyBookshelf/422.txt
 
-
-
-404ä¹¦æº(å¸¦å‘ç°)-æ— hè¾£å‘ç°.txt
+404ÊéÔ´(´ø·¢ÏÖ)-ÎŞhÀ±·¢ÏÖ.txt
 
 https://raw.githubusercontent.com/coralfox/MiscItems/master/MyBookshelf/404.txt
 
-
-
-452ä¹¦æº(å¸¦å‘ç°).txt
+452ÊéÔ´(´ø·¢ÏÖ).txt
 
 https://raw.githubusercontent.com/coralfox/MiscItems/master/MyBookshelf/452.txt
