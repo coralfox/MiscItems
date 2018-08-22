@@ -11866,7 +11866,7 @@
   "ruleSearchName": "tag.h5@tag.a.0@text",
   "ruleSearchNoteUrl": "tag.a.0@href",
   "ruleSearchUrl": "http://www.kayege.com/index/so?searchkey=searchKey",
-  "serialNumber": 443
+  "serialNumber": 453
 },
 {
   "bookSourceGroup": "带发现",
