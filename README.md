@@ -21,6 +21,10 @@ https://raw.githubusercontent.com/coralfox/MiscItems/master/MyBookshelf/404.txt
 
 https://raw.githubusercontent.com/coralfox/MiscItems/master/MyBookshelf/452.txt
 
+25书源(优质).txt
+
+https://raw.githubusercontent.com/coralfox/MiscItems/master/MyBookshelf/25.txt
+
 
 
 替换净化规则
