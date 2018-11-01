@@ -1,0 +1,33 @@
+{
+  "bookSourceGroup": "一抹微蓝",
+  "bookSourceName": "书香云集[收费模拟器可看]",
+  "bookSourceUrl": "http://www.sxyj.net",
+  "checkUrl": "",
+  "enable": false,
+  "groupList": [
+    "一抹微蓝"
+  ],
+  "httpUserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0",
+  "ruleBookAuthor": "class.book-author.0@tag.a.0@text",
+  "ruleBookContent": "class.body@html#&lt;|/p&gt;|p&gt;",
+  "ruleBookName": "class.book-name.0@tag.h1.0@text",
+  "ruleChapterList": "tag.ul@tag.li",
+  "ruleChapterName": "class.title.0@text",
+  "ruleChapterUrl": "class.btn-group.0@tag.a.2@href",
+  "ruleChapterUrlNext": "",
+  "ruleContentUrl": "tag.a.0@href",
+  "ruleContentUrlNext": "",
+  "ruleCoverUrl": "class.book-info.0@tag.img.0@src",
+  "ruleFindUrl": "现代言情::https://www.sxyj.net/Home_Category/parentCategoryId_1/categoryId_101/page_searchPage.html&&纯爱同人::https://www.sxyj.net/Home_Category/parentCategoryId_1/categoryId_109/page_searchPage.html&&古言穿越::https://www.sxyj.net/Home_Category/parentCategoryId_1/categoryId_120/page_searchPage.html&&浪漫青春::https://www.sxyj.net/Home_Category/parentCategoryId_1/categoryId_121/page_searchPage.html&&幻想言情::https://www.sxyj.net/Home_Category/parentCategoryId_1/categoryId_122/page_searchPage.html&&总裁霸爱::https://www.sxyj.net/Home_Category/parentCategoryId_1/categoryId_147/page_searchPage.html&&重生虐渣::https://www.sxyj.net/Home_Category/parentCategoryId_1/categoryId_148/page_searchPage.html&&蜜恋宠文::https://www.sxyj.net/Home_Category/parentCategoryId_1/categoryId_149/page_searchPage.html&&农家种田::https://www.sxyj.net/Home_Category/parentCategoryId_1/categoryId_150/page_searchPage.html&&情深虐恋::https://www.sxyj.net/Home_Category/parentCategoryId_1/categoryId_151/page_searchPage.html&&女尊天下::https://www.sxyj.net/Home_Category/parentCategoryId_1/categoryId_152/page_searchPage.html&&玄幻魔幻::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_103/page_searchPage.html&&武侠仙侠::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_104/page_searchPage.html&&悬疑灵异::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_105/page_searchPage.html&&游戏竞技::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_107/page_searchPage.html&&修真异能::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_108/page_searchPage.html&&都市小说::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_123/page_searchPage.html&&科幻末日::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_124/page_searchPage.html&&架空历史::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_127/page_searchPage.html&&热血爽文::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_142/page_searchPage.html&&异世奇遇::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_143/page_searchPage.html&&修真狂人::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_144/page_searchPage.html&&兵王传奇::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_145/page_searchPage.html&&摸骨神医::https://www.sxyj.net/Home_Category/parentCategoryId_0/categoryId_146/page_searchPage.html&&历史军事::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_106/page_searchPage.html&&侦探推理::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_110/page_searchPage.html&&亲子少儿::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_111/page_searchPage.html&&励志成功::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_112/page_searchPage.html&&经典名著::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_113/page_searchPage.html&&经济管理::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_114/page_searchPage.html&&外文原版::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_115/page_searchPage.html&&流行小说::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_117/page_searchPage.html&&学习科普::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_118/page_searchPage.html&&文学作品::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_119/page_searchPage.html&&心灵情感::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_125/page_searchPage.html&&生活时尚::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_126/page_searchPage.html&&人物传记::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_128/page_searchPage.html&&科幻小说::https://www.sxyj.net/Home_Category/parentCategoryId_2/categoryId_129/page_searchPage.html",
+  "ruleIntroduce": "class.book-summary.0@text",
+  "ruleSearchAuthor": "class.book-author@tag.span@text|class.book-author@tag.a@text",
+  "ruleSearchCoverUrl": "tag.img@data-original|tag.img.0@src",
+  "ruleSearchKind": "class.book-tags.0@text",
+  "ruleSearchLastChapter": "",
+  "ruleSearchList": "class.right@tag.li|class.body@tag.li",
+  "ruleSearchName": "class.book-name@tag.a@text",
+  "ruleSearchNoteUrl": "class.book-name@tag.a@href",
+  "ruleSearchUrl": "http://www.sxyj.net/Book_Search.html?keyword=searchKey",
+  "serialNumber": 2,
+  "weight": 0
+}
