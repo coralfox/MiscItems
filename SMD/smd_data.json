@@ -1,0 +1,4045 @@
+{
+  "weapons": [
+    {
+      "name": "ACR",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "ACR-E",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "档案员",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美游骑兵",
+      "archetypeTalent": "游骑兵"
+    },
+    {
+      "name": "F2000",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "护盾破坏者",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美乐天派",
+      "archetypeTalent": "乐天派"
+    },
+    {
+      "name": "AUG A3-CQC",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "无形之手",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美快板",
+      "archetypeTalent": "快板"
+    },
+    {
+      "name": "AK-M",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "初见",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "军用AK-M",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "黑市AK-M",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "狂躁",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美溢出",
+      "archetypeTalent": "溢出"
+    },
+    {
+      "name": "FAL",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "守门员",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美压力点",
+      "archetypeTalent": "压力点"
+    },
+    {
+      "name": "FAL SA-58",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "FAL SA-58 Para",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "FAMAS 2010",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "燃尽",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美弹尽粮绝",
+      "archetypeTalent": "弹尽粮绝"
+    },
+    {
+      "name": "猎人",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美狂乱",
+      "archetypeTalent": "狂乱"
+    },
+    {
+      "name": "军用G36",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "G36 C",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "G36增强型",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "天生伟大",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美稳定",
+      "archetypeTalent": "稳定"
+    },
+    {
+      "name": "看守者",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美杀手",
+      "archetypeTalent": "杀手"
+    },
+    {
+      "name": "警用M4",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "纵火狂",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美点燃",
+      "archetypeTalent": "点燃"
+    },
+    {
+      "name": "列克星敦",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "卡宾枪7",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "钻探者",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美精确打击",
+      "archetypeTalent": "精确打击"
+    },
+    {
+      "name": "蜜獾",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "野蛮狼獾",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美近身好手",
+      "archetypeTalent": "近身好手"
+    },
+    {
+      "name": "军用P416",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "定制P416 G3",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "辉煌岁月",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美近视",
+      "archetypeTalent": "近视"
+    },
+    {
+      "name": "Mk16",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "SOCOM Mk16",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "路德",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美流线型",
+      "archetypeTalent": "流线型"
+    },
+    {
+      "name": "Tactical Mk16",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "CTAR-21",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "劈轨者",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美精准",
+      "archetypeTalent": "精准"
+    },
+    {
+      "name": "SIG 556",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "机械兽",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "未来完善",
+      "archetypeTalent": null
+    },
+    {
+      "name": "PDR",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "初绽",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "开花收割",
+      "archetypeTalent": null
+    },
+    {
+      "name": "试验对象",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美同步伤害",
+      "archetypeTalent": "同步伤害"
+    },
+    {
+      "name": "TKB-408",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "破王者",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美平线",
+      "archetypeTalent": "平线"
+    },
+    {
+      "name": "煽动分子",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "扰动",
+      "archetypeTalent": null
+    },
+    {
+      "name": "训鹰人",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "雄鹰突击",
+      "archetypeTalent": null
+    },
+    {
+      "name": "变色龙",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "适应本能",
+      "archetypeTalent": null
+    },
+    {
+      "name": "电容突击",
+      "type": "突击步枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "技能电容",
+      "archetypeTalent": null
+    },
+    {
+      "name": "大角羊",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "王牌猎人",
+      "archetypeTalent": null
+    },
+    {
+      "name": "大角突击步枪(瞄准镜模式)",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "王牌猎人",
+      "archetypeTalent": null
+    },
+    {
+      "name": "圣艾尔莫引擎",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完结",
+      "archetypeTalent": null
+    },
+    {
+      "name": "斯特雷加",
+      "type": "突击步枪",
+      "coreAttr": "生命值伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "怯弱",
+      "archetypeTalent": null
+    },
+    {
+      "name": "MG5",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "步兵MG5",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "大秀",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美雷霆一击",
+      "archetypeTalent": "雷霆一击"
+    },
+    {
+      "name": "斯莱普尼尔",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美狂乱",
+      "archetypeTalent": "狂乱"
+    },
+    {
+      "name": "敲钟人",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "斯通纳LAMG",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "寂静咆哮",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美压制",
+      "archetypeTalent": "压制"
+    },
+    {
+      "name": "M249 B",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "战术M249 Para",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "军用Mk46",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "十月五日 - M249 B",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "黑色星期五",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美疯狂",
+      "archetypeTalent": "疯狂"
+    },
+    {
+      "name": "毒刺",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "疾速",
+      "archetypeTalent": null
+    },
+    {
+      "name": "换挡",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美节制",
+      "archetypeTalent": "节制"
+    },
+    {
+      "name": "经典M60",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "军用M60 E4",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "黑市M60 E6",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "好时光",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美快手",
+      "archetypeTalent": "快手"
+    },
+    {
+      "name": "头条猎手",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美紧绷",
+      "archetypeTalent": "紧绷"
+    },
+    {
+      "name": "经典RPK-74",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "锈斑",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美压力点",
+      "archetypeTalent": "压力点"
+    },
+    {
+      "name": "军用RPK-74 M",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "黑市RPK-74 E",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "新可靠",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美优化",
+      "archetypeTalent": "优化"
+    },
+    {
+      "name": "军用L86 LSW",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "定制L86 A2",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "白板",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美沉稳之手",
+      "archetypeTalent": "沉稳之手"
+    },
+    {
+      "name": "IWI 内格夫",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "大屠杀",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美虐待狂",
+      "archetypeTalent": "虐待狂"
+    },
+    {
+      "name": "GR9",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "胆量",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美平线",
+      "archetypeTalent": "平线"
+    },
+    {
+      "name": "蟋蟀",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美精确打击",
+      "archetypeTalent": "精确打击"
+    },
+    {
+      "name": "帕坎",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "帕坎",
+      "archetypeTalent": null
+    },
+    {
+      "name": "瘟疫",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "流放者的瘟疫",
+      "archetypeTalent": null
+    },
+    {
+      "name": "大亚历杭德罗",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "掩体射击手",
+      "archetypeTalent": null
+    },
+    {
+      "name": "子弹国王",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "子弹地狱",
+      "archetypeTalent": null
+    },
+    {
+      "name": "蓝    屏",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "干扰弹",
+      "archetypeTalent": null
+    },
+    {
+      "name": "铁    肺",
+      "type": "轻机枪",
+      "coreAttr": "掩体伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "炽热",
+      "archetypeTalent": null
+    },
+    {
+      "name": "ACS-12",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "摇滚",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美额外",
+      "archetypeTalent": "额外"
+    },
+    {
+      "name": "堆栈经纪人",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "左撇子",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美大锤",
+      "archetypeTalent": "大锤"
+    },
+    {
+      "name": "黑市SASG-12 S",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "SASG-12",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "战术SASG-12 K",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "海啸",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美痛殴",
+      "archetypeTalent": "痛殴"
+    },
+    {
+      "name": "海军Super 90",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "Super 90",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "如胶似漆",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美厚颜",
+      "archetypeTalent": "厚颜"
+    },
+    {
+      "name": "战术Super 90 SBS",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "执法者",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美痛殴",
+      "archetypeTalent": "痛殴"
+    },
+    {
+      "name": "锯断双管霰弹枪",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "备用爆管",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "纵火者",
+      "type": "霰弹枪",
+      "coreAttr": null,
+      "minorAttr1": "生命值伤害",
+      "minorAttr2": null,
+      "talent": "引燃弹药",
+      "archetypeTalent": null
+    },
+    {
+      "name": "双管霰弹枪",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "爆管",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美充能",
+      "archetypeTalent": "充能"
+    },
+    {
+      "name": "KSG霰弹枪",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "送别",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美距离感",
+      "archetypeTalent": "距离感"
+    },
+    {
+      "name": "定制M870 MCS",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "M870 Express",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "封锁",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美定身",
+      "archetypeTalent": "定身"
+    },
+    {
+      "name": "军用M870",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "库莱布雷",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美爵士手",
+      "archetypeTalent": "爵士手"
+    },
+    {
+      "name": "SPAS-12",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "荆棘",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美厚颜",
+      "archetypeTalent": "厚颜"
+    },
+    {
+      "name": "SIX-12",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "拖把",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": "击杀回甲",
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "摇篮曲",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "睡魔",
+      "archetypeTalent": null
+    },
+    {
+      "name": "美    梦",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "睡魔",
+      "archetypeTalent": null
+    },
+    {
+      "name": "警长",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "正宗",
+      "archetypeTalent": null
+    },
+    {
+      "name": "天蝎座",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "败血性休克",
+      "archetypeTalent": null
+    },
+    {
+      "name": "霸    主",
+      "type": "霰弹枪",
+      "coreAttr": "装甲伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "投降",
+      "archetypeTalent": null
+    },
+    {
+      "name": "改裝SMG-9",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "改裝SMG-9 A2",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "纯粹主义者",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美流线型",
+      "archetypeTalent": "流线型"
+    },
+    {
+      "name": "MP5A2",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "MP5-N",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "MP5 ST",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "卡巴莱",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美雷霆一击",
+      "archetypeTalent": "雷霆一击"
+    },
+    {
+      "name": "PP-19",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "增强型PP-19",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "冷战关系",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美紧绷",
+      "archetypeTalent": "紧绷"
+    },
+    {
+      "name": "AUG A3 Para XS",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "增强型AUG A3P",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "战术AUG A3P",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "互换",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美往复",
+      "archetypeTalent": "往复"
+    },
+    {
+      "name": "战术Vector SBR 9mm",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "泡沫",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美定身",
+      "archetypeTalent": "定身"
+    },
+    {
+      "name": "Vector SBR 9mm",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "Vector SBR .45 ACP",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "暗冬",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美杀手",
+      "archetypeTalent": "杀手"
+    },
+    {
+      "name": "MP7",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "交换链",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美坚定不移",
+      "archetypeTalent": "坚定不移"
+    },
+    {
+      "name": "黑市T821",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "警用T821",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "警用UMP-45",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "战术UMP-45",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "弹弓",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "M1928",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "汤米枪",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "渐入佳境",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美稳定",
+      "archetypeTalent": "稳定"
+    },
+    {
+      "name": "雪橇",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "隐藏岩石",
+      "archetypeTalent": null
+    },
+    {
+      "name": "P90",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "艾梅琳的守护",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美保护",
+      "archetypeTalent": "保护"
+    },
+    {
+      "name": "SIG MPX",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "安全距离",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美局外人",
+      "archetypeTalent": "局外人"
+    },
+    {
+      "name": "公寓",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美节制",
+      "archetypeTalent": "节制"
+    },
+    {
+      "name": "CMMG 女妖",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "怨恨",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美报复",
+      "archetypeTalent": "报复"
+    },
+    {
+      "name": "话匣子",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "喋喋不休",
+      "archetypeTalent": null
+    },
+    {
+      "name": "死亡女士",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "自由呼吸",
+      "archetypeTalent": null
+    },
+    {
+      "name": "逆    火",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "以物易物",
+      "archetypeTalent": null
+    },
+    {
+      "name": "衔尾蛇",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "一统天下",
+      "archetypeTalent": null
+    },
+    {
+      "name": "啄牛鸟",
+      "type": "冲锋枪",
+      "coreAttr": "暴击几率",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "共生",
+      "archetypeTalent": null
+    },
+    {
+      "name": "ACR SS",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "商人",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美往复",
+      "archetypeTalent": "往复"
+    },
+    {
+      "name": "UIC15 MOD2",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "M16A2",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "低语",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美在你后方",
+      "archetypeTalent": "在你后方"
+    },
+    {
+      "name": "经典M1A",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "十二个",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美幸运一击",
+      "archetypeTalent": "幸运一击"
+    },
+    {
+      "name": "SOCOM M1A",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "左侧舞台",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美大锤",
+      "archetypeTalent": "大锤"
+    },
+    {
+      "name": "冷却器",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "提神",
+      "archetypeTalent": null
+    },
+    {
+      "name": "M1A CQB",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "轻型M4",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "LVOA-C",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "涌流",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美刺击",
+      "archetypeTalent": "刺击"
+    },
+    {
+      "name": "都市MDR",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "军用Mk17",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "警用Mk17",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "永恒凝视",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美永续",
+      "archetypeTalent": "永续"
+    },
+    {
+      "name": "SIG 716 CQB",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "SIG 716",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "艺术家工具",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美步枪手",
+      "archetypeTalent": "步枪手"
+    },
+    {
+      "name": "USC .45 ACP",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "阿喀琉斯",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美软肋",
+      "archetypeTalent": "软肋"
+    },
+    {
+      "name": "1886型",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "弗吉尼亚人",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美回旋镖",
+      "archetypeTalent": "回旋镖"
+    },
+    {
+      "name": "坚定MK47",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "和谐",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美同步伤害",
+      "archetypeTalent": "同步伤害"
+    },
+    {
+      "name": "冷酷无情",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "双发扳机",
+      "archetypeTalent": null
+    },
+    {
+      "name": "无    情",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "双发扳机",
+      "archetypeTalent": null
+    },
+    {
+      "name": "苦乐参半",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "输血",
+      "archetypeTalent": null
+    },
+    {
+      "name": "菱斑响尾蛇",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "痛苦撕咬",
+      "archetypeTalent": null
+    },
+    {
+      "name": "饥饿之人",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "基利与弗雷基",
+      "archetypeTalent": null
+    },
+    {
+      "name": "医生霍姆",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "医生霍姆",
+      "archetypeTalent": null
+    },
+    {
+      "name": "维护者",
+      "type": "步枪",
+      "coreAttr": "暴击伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "奥尔蒂斯突击接口",
+      "archetypeTalent": null
+    },
+    {
+      "name": "G28",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "遗物",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美坚定",
+      "archetypeTalent": "坚定"
+    },
+    {
+      "name": "SOCOM Mk20 SSR",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "黑暗",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美盲目",
+      "archetypeTalent": "盲目"
+    },
+    {
+      "name": "M700碳纤维",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "布鲁特斯",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美在你后方",
+      "archetypeTalent": "在你后方"
+    },
+    {
+      "name": "战术M700",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "M700",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "埃基姆的长棍",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美游骑兵",
+      "archetypeTalent": "游骑兵"
+    },
+    {
+      "name": "伞兵SVD",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "剩余SVD",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "突击队员",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美赤裸",
+      "archetypeTalent": "赤裸"
+    },
+    {
+      "name": "手提篮",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "隐蔽SRS",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "SRS A1",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "针刺",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美第一滴血",
+      "archetypeTalent": "第一滴血"
+    },
+    {
+      "name": "经典M44卡宾枪",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "白死神",
+      "type": "射手步枪",
+      "coreAttr": "137%爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "噢，卡罗尔",
+      "type": "射手步枪",
+      "coreAttr": "137%爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "闪烁之光",
+      "archetypeTalent": null
+    },
+    {
+      "name": "猎用M44",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "定制M44",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "煽动者",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美软肋",
+      "archetypeTalent": "软肋"
+    },
+    {
+      "name": "SR-1",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "阿德瑞斯提亚",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "指定打击者",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美改革",
+      "archetypeTalent": "改革"
+    },
+    {
+      "name": "战术.308",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "手术刀",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "未来完善",
+      "archetypeTalent": null
+    },
+    {
+      "name": "复仇女神",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "电磁加速器",
+      "archetypeTalent": null
+    },
+    {
+      "name": "螳螂",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "众目睽睽",
+      "archetypeTalent": null
+    },
+    {
+      "name": "恐惧法令",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "句号",
+      "archetypeTalent": null
+    },
+    {
+      "name": "神圣帝国",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "陷阱",
+      "archetypeTalent": null
+    },
+    {
+      "name": "裹尸布",
+      "type": "射手步枪",
+      "coreAttr": "爆头伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "高优先级目标",
+      "archetypeTalent": null
+    },
+    {
+      "name": "Px4 Storm F型",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "Px4 Storm T型",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "X-45",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "X-45战术",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "军用M9",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "军官M9 A1",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "D50",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "生存者D50",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": "掩体伤害",
+      "minorAttr2": null,
+      "talent": "完美虐待狂",
+      "archetypeTalent": "虐待狂"
+    },
+    {
+      "name": "M1911",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "M45A1",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "莫桑比克特制",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美面包篮",
+      "archetypeTalent": "面包篮"
+    },
+    {
+      "name": "战术M1911",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "快步",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "运动模式",
+      "archetypeTalent": null
+    },
+    {
+      "name": "Maxim 9",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": "爆头伤害",
+      "minorAttr2": null,
+      "talent": "完美刺击",
+      "archetypeTalent": "刺击"
+    },
+    {
+      "name": "第一波PF45",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "定制PF45",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "避雷针",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美回收",
+      "archetypeTalent": "回收"
+    },
+    {
+      "name": "93R",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "神射手93R",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": "装弹速度",
+      "minorAttr2": null,
+      "talent": "完美坚定不移",
+      "archetypeTalent": "坚定不移"
+    },
+    {
+      "name": "迪塞罗斯",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "短鼻迪塞罗斯",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "迪塞罗斯特制",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": "稳定度",
+      "minorAttr2": null,
+      "talent": "完美乐天派",
+      "archetypeTalent": "乐天派"
+    },
+    {
+      "name": "586马格南",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "轨道",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美终结者",
+      "archetypeTalent": "终结者"
+    },
+    {
+      "name": "警用686马格南",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "先知",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "完美坚定",
+      "archetypeTalent": "坚定"
+    },
+    {
+      "name": "丰收",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "P320 XCompact",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": "装甲伤害",
+      "minorAttr2": null,
+      "talent": "完美保护",
+      "archetypeTalent": "保护"
+    },
+    {
+      "name": "KARD-45",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "TDI\"Kard\"定制",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": "技能分阶",
+      "minorAttr2": null,
+      "talent": null,
+      "archetypeTalent": null
+    },
+    {
+      "name": "自由",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "自由或死亡",
+      "archetypeTalent": null
+    },
+    {
+      "name": "蚊    子",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "蚊子之歌",
+      "archetypeTalent": null
+    },
+    {
+      "name": "轩辕十四",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "弑君",
+      "archetypeTalent": null
+    },
+    {
+      "name": "鞭挞",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "比装弹更快",
+      "archetypeTalent": null
+    },
+    {
+      "name": "暴风雨",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "克制",
+      "archetypeTalent": null
+    },
+    {
+      "name": "勤劳小蜜蜂",
+      "type": "手枪",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": "忙碌小蜜蜂",
+      "archetypeTalent": null
+    }
+  ],
+  "gear": [
+    {
+      "name": "5.11 Tactical",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "艾拉迪控股",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "阿尔卑斯武装",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "火绳枪臂",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "沃克哈里斯",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Uzina Getica",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Electrique",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Empress International",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Overlord Armaments",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "毒蜥 guard",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "格兰斯通",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Golan Gear Ltd",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "索寇罗夫",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "道格拉斯与哈丁",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Česká Výroba s.r.o",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "China Light Industries",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "贝哲陶夫",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "哈布斯堡 guard",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "哈瑙-U",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Legatus S.p.A.",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Imminence Armaments",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Lengmo",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "芬里斯集团",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "普罗维登斯防御",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "彼得罗夫防御",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Palisade Steelworks",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Royal Works",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Shiny Monkey",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "贝尔斯通军械",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "村上工业",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "耶尔 gear",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "里希特与凯撒",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Unit Alloys",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Urban Lookout",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "飞龙 wear",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Zwiadowka Sp. z o.o.",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "爱国者",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Hotshot",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Ongoing Directive",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "硬连线",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "谈判者困境",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "矛尖",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Aces & Eights",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Refactor",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "突袭者战甲",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "系统腐败",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "日蚀协议",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "未来 initiative",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "铸造厂 bulwark",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "猎人怒火",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "装配工",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Umbra Initiative",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Virtuoso",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Heartbreaker",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "The Cavalier",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Ortiz: Exuro",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Aegis",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Measured Assembly",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Breaking Point",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Tipping Scales",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Core Strength ",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Core Strength",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Concentrated Company",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "全部"
+    },
+    {
+      "name": "Improvised Holster",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Improvised Gloves",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "手套"
+    },
+    {
+      "name": "Improvised Kneepads",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "护膝"
+    },
+    {
+      "name": "The Hollow Man",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "面具"
+    },
+    {
+      "name": "Night Watcher",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "面具"
+    },
+    {
+      "name": "Punch Drunk",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "面具"
+    },
+    {
+      "name": "Chill Out",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "面具"
+    },
+    {
+      "name": "Visionario",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "面具"
+    },
+    {
+      "name": "Vedmedytsya",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Everyday Carrier",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Closer",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "The Sacrifice",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Caesar's Guard",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Zero F's",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Chainkiller",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Door-Kicker's Knock",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Hunter-Killer",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Ferocious Calm",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Pristine Example",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Pointman",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Cherished",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Henri",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Carpenter",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Combustor",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Bober",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Sleight",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Impetus",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Robin",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Equalizer",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Claws Out",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Ammo Dump Holster",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Picaro's Holster",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Forge",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Spot-on",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Salvo",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Anarchist's Cookbook",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Axel",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "The Gift",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "The Setup",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Strategic Alignment",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Devil's Due",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Percussive Maintenance",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Battery Pack",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Force Multiplier",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Matador",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Hermano",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Liquid Engineer",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "The Courier",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Lavoisier",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Festive Delivery",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Backbone",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Proxy",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Vigil",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Bulldog",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Cap'n",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Contractor's Gloves",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "手套"
+    },
+    {
+      "name": "Deathgrips",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "手套"
+    },
+    {
+      "name": "Firm Handshake",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "手套"
+    },
+    {
+      "name": "Motherly Love",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "手套"
+    },
+    {
+      "name": "Eagle's Grasp",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "手套"
+    },
+    {
+      "name": "Emperor's Guard",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "护膝"
+    },
+    {
+      "name": "Grease",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "护膝"
+    },
+    {
+      "name": "Snow Machine",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "护膝"
+    },
+    {
+      "name": "Fox's Prayer",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "护膝"
+    },
+    {
+      "name": "Turmoil",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "护膝"
+    },
+    {
+      "name": "Cloak",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "护膝"
+    },
+    {
+      "name": "Tinkerer",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "面具"
+    },
+    {
+      "name": "The Catalyst",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "面具"
+    },
+    {
+      "name": "Coyote's Mask",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "面具"
+    },
+    {
+      "name": "Investor",
+      "type": "",
+      "coreAttr": null,
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "面具"
+    },
+    {
+      "name": "Vile",
+      "type": "",
+      "coreAttr": "技能分阶",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "面具"
+    },
+    {
+      "name": "Catharsis",
+      "type": "",
+      "coreAttr": "装甲",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "面具"
+    },
+    {
+      "name": "Collector",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Provocator",
+      "type": "",
+      "coreAttr": "装甲",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Tardigrade",
+      "type": "",
+      "coreAttr": "装甲",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Ridgeway's Pride",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Beacon",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "胸甲"
+    },
+    {
+      "name": "Imperial Dynasty",
+      "type": "",
+      "coreAttr": "技能分阶",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Shocker Punch",
+      "type": "",
+      "coreAttr": "装甲",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Waveform",
+      "type": "",
+      "coreAttr": "技能分阶",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Centurion's Scabbard",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Dodge City",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Nimble Holster",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "枪套"
+    },
+    {
+      "name": "Acosta's Go Bag",
+      "type": "",
+      "coreAttr": "技能分阶",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Birdie’s Quick Fix",
+      "type": "",
+      "coreAttr": "技能分阶",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Harrier Pride",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "Memento",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "NinjaBike Backpack",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "背包"
+    },
+    {
+      "name": "BTSU Data Gloves",
+      "type": "",
+      "coreAttr": "技能分阶",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "手套"
+    },
+    {
+      "name": "Bloody Knuckles",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "手套"
+    },
+    {
+      "name": "Rugged Gauntlets",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "手套"
+    },
+    {
+      "name": "Exodus",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "手套"
+    },
+    {
+      "name": "Overdogs",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "手套"
+    },
+    {
+      "name": "Acosta’s Kneepads",
+      "type": "",
+      "coreAttr": "装甲",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "护膝"
+    },
+    {
+      "name": "Blacklisters",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "护膝"
+    },
+    {
+      "name": "Sawyer's Kneepads",
+      "type": "",
+      "coreAttr": "装甲",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "护膝"
+    },
+    {
+      "name": "NinjaBike Kneepads",
+      "type": "",
+      "coreAttr": "武器伤害",
+      "minorAttr1": null,
+      "minorAttr2": null,
+      "talent": null,
+      "brand": "",
+      "slot": "护膝"
+    }
+  ]
+}

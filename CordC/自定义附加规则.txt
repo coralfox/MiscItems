@@ -1,0 +1,312 @@
+﻿const customRules = [
+  // 在此添加自定义代理规则。
+  // 例如：
+  //"DOMAIN-SUFFIX,gstatic.com,节点选择",
+  //暴雪战网
+  "DOMAIN-SUFFIX,telemetry-in.battle.net,🎮 游戏平台",
+  "DOMAIN-SUFFIX,kr.patch.battle.net,🎮 游戏平台",
+  "DOMAIN-SUFFIX,kr.version.battle.net,🎮 游戏平台",
+  "DOMAIN-SUFFIX,us.patch.battle.net,🎮 游戏平台",
+  "DOMAIN-SUFFIX,us.version.battle.net,🎮 游戏平台",
+  "DOMAIN-SUFFIX,tw.patch.battle.net,🎮 游戏平台",
+  "DOMAIN-SUFFIX,tw.version.battle.net,🎮 游戏平台",
+  "DOMAIN-SUFFIX,eu.battle.net,🎮 游戏平台",
+  "DOMAIN-SUFFIX,kr.battle.net,🎮 游戏平台",
+  "DOMAIN-SUFFIX,us.battle.net,🎮 游戏平台",
+  "DOMAIN-SUFFIX,tw.battle.net,🎮 游戏平台",
+  "DOMAIN-SUFFIX,www.battle.net,🎮 游戏平台",
+  "DOMAIN-SUFFIX,account.battle.net,🎮 游戏平台",
+
+  //steam相关
+  "DOMAIN,steamcdn-a.akamaihd.net,DIRECT", // Steam CDN加速
+  "DOMAIN-SUFFIX,cm.steampowered.com,DIRECT", // Steam社区管理
+  "DOMAIN-SUFFIX,steamserver.net,DIRECT", // Steam服务器
+  "IP-CIDR,45.121.184.0/24,DIRECT", // Steam服务器
+  "IP-CIDR,103.10.124.0/23,DIRECT", // Steam服务器
+  "IP-CIDR,103.28.54.0/24,DIRECT", // Steam服务器
+  "IP-CIDR,146.66.152.0/24,DIRECT", // Steam服务器
+  "IP-CIDR,146.66.155.0/24,DIRECT", // Steam服务器
+  "IP-CIDR,155.133.224.0/22,DIRECT", // Steam服务器
+  "IP-CIDR,155.133.228.0/23,DIRECT", // Steam服务器
+  "IP-CIDR,155.133.230.0/24,DIRECT", // Steam服务器
+  "IP-CIDR,155.133.236.0/22,DIRECT", // Steam服务器
+  "IP-CIDR,155.133.240.0/23,DIRECT", // Steam服务器
+  "IP-CIDR,155.133.244.0/24,DIRECT", // Steam服务器
+  "IP-CIDR,155.133.246.0/24,DIRECT", // Steam服务器
+  "IP-CIDR,155.133.248.0/22,DIRECT", // Steam服务器
+  "IP-CIDR,155.133.252.0/24,DIRECT", // Steam服务器
+  "IP-CIDR,155.133.254.0/23,DIRECT", // Steam服务器
+  "IP-CIDR,162.254.192.0/21,DIRECT", // Steam服务器
+  "IP-CIDR,185.25.182.0/23,DIRECT", // Steam服务器
+  "IP-CIDR,192.69.96.0/22,DIRECT", // Steam服务器
+  "IP-CIDR,205.196.6.0/24,DIRECT", // Steam服务器
+  "IP-CIDR,208.64.200.0/22,DIRECT", // Steam服务器
+  "IP-CIDR,208.78.164.0/22,DIRECT", // Steam服务器
+  //游戏相关
+  "DOMAIN-SUFFIX,augmentedsteam.com,🎮 游戏平台", // Steam增强插件
+  "DOMAIN-SUFFIX,melvoridle.com,🎮 游戏平台", // Melvor Idle网页游戏
+  "DOMAIN-SUFFIX,nexusmods.com,🎮 游戏平台", // NexusMods游戏模组
+  "DOMAIN-SUFFIX,files.nexus-cdn.com,🎮 游戏平台", // NexusMods CDN
+  "DOMAIN-SUFFIX,wemod.com,🎮 游戏平台", // WeMod游戏修改器
+  // "DOMAIN-SUFFIX,dl.eccdnx.com,🎮 游戏平台", // 游戏下载CDN
+
+  //其它游戏平台
+  "DOMAIN-SUFFIX,ubisoft.com,🎮 游戏平台", // 育碧游戏平台
+  "DOMAIN-SUFFIX,ubi.com,🎮 游戏平台", // 育碧官网
+
+  //游戏下载
+  "DOMAIN,assets1.xboxlive.com,DIRECT", // Xbox游戏资源1
+  "DOMAIN,assets2.xboxlive.com,DIRECT", // Xbox游戏资源2
+  "DOMAIN,blizzard.gcdn.cloudn.co.kr,DIRECT", // 暴雪韩国CDN
+  "DOMAIN,blzddist1-a.akamaihd.net,DIRECT", // 暴雪分发1
+  "DOMAIN,blzddistkr1-a.akamaihd.net,DIRECT", // 暴雪韩国分发
+  "DOMAIN,client.hikarifield.co.jp,DIRECT", // 光耀之星游戏下载
+  "DOMAIN,content.cdp.bethesda.net,DIRECT", // 贝塞斯达内容CDN
+  "DOMAIN,download.cdp.bethesda.net,DIRECT", // 贝塞斯达下载
+  "DOMAIN,download.dm.origin.com,DIRECT", // EA Origin下载
+  "DOMAIN,download.epicgames.com,DIRECT", // Epic Games下载
+  "DOMAIN,download.hikarifield.co.jp,DIRECT", // 光耀之星下载
+  "DOMAIN,download2.epicgames.com,DIRECT", // Epic Games下载2
+  "DOMAIN,download3.epicgames.com,DIRECT", // Epic Games下载3
+  "DOMAIN,download4.epicgames.com,DIRECT", // Epic Games下载4
+  //"DOMAIN,edge.steam-dns.top.comcast.net,DIRECT", // Steam DNS边缘节点
+  "DOMAIN,epicgames-download1.akamaized.net,DIRECT", // Epic Games CDN 1
+  "DOMAIN,eu.cdn.blizzard.com,DIRECT", // 暴雪欧洲CDN
+  "DOMAIN,fastly-download.epicgames.com,DIRECT", // Epic Games Fastly CDN
+  "DOMAIN,gamedownloads-rockstargames-com.akamaized.net,DIRECT", // Rockstar Games下载
+  "DOMAIN,gog-cdn-lumen.secure2.footprint.net,DIRECT", // GOG游戏CDN
+  "DOMAIN,kr.cdn.blizzard.com,DIRECT", // 暴雪韩国 CDN
+  "DOMAIN,level3.blizzard.com,DIRECT", // 暴雪Level3 CDN
+  "DOMAIN,origin-a.akamaihd.net,DIRECT", // EA Origin CDN
+  "DOMAIN,packagespc.xboxlive.com,DIRECT", // Xbox游戏包
+  "DOMAIN,ssl-lvlt.cdn.ea.com,DIRECT", // EA Level3 CDN
+  // "DOMAIN,steam.eca.qtlglb.com,DIRECT", // Steam欧洲 CDN
+  // "DOMAIN,steam.naeu.qtlglb.com,DIRECT", // Steam北美欧洲CDN
+  // "DOMAIN,steam.ru.qtlglb.com,DIRECT", // Steam俄罗斯CDN
+  // "DOMAIN,steampipe-kr.akamaized.net,DIRECT", // Steam韩国CDN
+  // "DOMAIN,steampipe-partner.akamaized.net,DIRECT", // Steam合作伙伴CDN
+  // "DOMAIN,steampipe.akamaized.net,DIRECT", // Steam管道CDN
+  // "DOMAIN,steamusercontent-a.akamaihd.net,DIRECT", // Steam用户内容CDN
+  "DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn,DIRECT", // 育碧PC版CDN
+  "DOMAIN,us.cdn.blizzard.com,DIRECT", // 暴雪美国CDN
+  "DOMAIN,xvcf1.xboxlive.com,DIRECT", // Xbox内容文件1
+  "DOMAIN,xvcf2.xboxlive.com,DIRECT", // Xbox内容文件2
+  "DOMAIN-SUFFIX,cdn.ubi.com,DIRECT", // 育碧CDN
+  "DOMAIN-SUFFIX,dyn.riotcdn.net,DIRECT", // 拳头游戏CDN
+
+  // 🌱 软件工具平台
+  "DOMAIN-SUFFIX,wondershare.com,🍃 应用净化", // 万兴科技（视频编辑、数据恢复等）
+  "DOMAIN-SUFFIX,wondershare.cc,🍃 应用净化", // 万兴科技
+  "DOMAIN-SUFFIX,cyberlink.com,🍃 应用净化", // 威力导演视频编辑
+  "DOMAIN-SUFFIX,bandicam.com ,🍃 应用净化", // Bandicam录屏软件
+  "DOMAIN-SUFFIX,bandisoft.com,🍃 应用净化", // Bandisoft软件公司
+  "DOMAIN-SUFFIX,www.xmind.app,REJECT", // XMind思维导图（拦截广告）
+  "DOMAIN-SUFFIX,nodejs.org,🚀 节点选择", // Node.js开发工具
+  "DOMAIN-SUFFIX,autohotkey.com,🚀 节点选择", // AutoHotkey脚本工具
+  "DOMAIN-SUFFIX,regex101.com,🚀 节点选择", // 正则表达式在线工具
+  "DOMAIN-SUFFIX,workos.com,🚀 节点选择", // WorkOS开发者平台
+  "DOMAIN-SUFFIX,typingclub.com,🚀 节点选择", // 打字练习平台
+  "DOMAIN-SUFFIX,*.chinaunicom.cn,DIRECT", // 中国联通节点
+
+  // 💻 开发工具与代码托管
+  // "DOMAIN-SUFFIX,github.com,🚀 节点选择", // GitHub代码托管
+  // "DOMAIN-SUFFIX,github.blog,🚀 节点选择", // GitHub博客
+  // "DOMAIN-SUFFIX,githubusercontent,🚀 节点选择", // GitHub资源托管
+  "DOMAIN-SUFFIX,bitbucket.org,🚀 节点选择", // Bitbucket代码托管
+  "DOMAIN-SUFFIX,greasyfork.org,🚀 节点选择", // 用户脚本托管
+  "DOMAIN-SUFFIX,tampermonkey.net,🚀 节点选择", // 油猴脚本管理器
+  "DOMAIN-SUFFIX,v2ex.com,🚀 节点选择", // V2EX技术论坛
+
+  // 🎮 游戏平台与模组
+  "DOMAIN-SUFFIX,nexusmods.com,🚀 节点选择", // NexusMods游戏模组
+  "DOMAIN-SUFFIX,modapi.io,🚀 节点选择", // 模组API
+  "DOMAIN-SUFFIX,modcdn.io,🚀 节点选择", // 模组CDN
+  "DOMAIN-SUFFIX,steamdb.info,🚀 节点选择", // Steam数据库
+  "DOMAIN-SUFFIX,steamworkshopdownloader.io,🚀 节点选择", // Steam创意工坊下载
+  "DOMAIN-SUFFIX,mtgarena.pro,🚀 节点选择", // 魔法风云会竞技场
+  "DOMAIN-SUFFIX,battlefieldtracker.com,🚀 节点选择", // 战地追踪器
+  "DOMAIN-SUFFIX,thetrackernetwork.com,🚀 节点选择", // 游戏追踪网络
+  "DOMAIN-SUFFIX,tracker.network,🚀 节点选择", // 游戏数据追踪
+  "DOMAIN-SUFFIX,untapped.gg,🚀 节点选择", // 游戏数据分析
+  "DOMAIN-SUFFIX,tiermaker.com,🚀 节点选择", // 游戏排名制作工具
+  "DOMAIN-SUFFIX,cs.rin.ru,🚀 节点选择", // CS游戏论坛
+  "DOMAIN-SUFFIX,scryfall.com,🚀 节点选择", // 魔法风云会卡牌查询
+
+  // 🌐 国外媒体与社区
+  "DOMAIN-SUFFIX,masuit.net,🌍 国外媒体", // MaSuIT技术博客
+  "DOMAIN-SUFFIX,pximg.net,🚀 节点选择", // Pixiv图片托管
+  "DOMAIN-SUFFIX,sm.ms,🚀 节点选择", // SM.MS图床
+
+  // 🎭 动漫游戏社区
+  "DOMAIN-SUFFIX,south-plus.org,🚀 节点选择", // SouthPlus动漫论坛
+  "DOMAIN-SUFFIX,white-plus.net,🚀 节点选择", // WhitePlus动漫论坛
+  "DOMAIN-SUFFIX,hentaiclub.net,🚀 节点选择", // HentaiClub动漫
+  "DOMAIN-SUFFIX,nhentai.net,🚀 节点选择", // nhentai漫画
+  "DOMAIN-SUFFIX,yande.re,🚀 节点选择", // yande.re插画
+  "DOMAIN-SUFFIX,reimu.net,🚀 节点选择", // Reimu动漫
+  "DOMAIN-SUFFIX,hacg.cat,🚀 节点选择", // HACG动漫
+  "DOMAIN-SUFFIX,hacg.tw,🚀 节点选择", // HACG台湾
+  "DOMAIN-SUFFIX,gmgard.com,🚀 节点选择", // GM Gard游戏论坛
+  "DOMAIN-SUFFIX,loverslab.com,🚀 节点选择", // LoversLab游戏模组
+  "DOMAIN-SUFFIX,ero-labs.net,🚀 节点选择", // ERO-Labs
+
+  // 📄 资源下载与文件分享
+  "DOMAIN-SUFFIX,gofile.io,🚀 节点选择", // GoFile文件分享
+  "DOMAIN-SUFFIX,tmpfiles.org,🚀 节点选择", // 临时文件托管
+  "DOMAIN-SUFFIX,dropboxusercontent.com,🚀 节点选择", // Dropbox资源托管
+  "DOMAIN-SUFFIX,dropboxstatic.com,🚀 节点选择", // Dropbox静态资源
+  "DOMAIN-SUFFIX,tinyurl.com,🚀 节点选择", // TinyURL短链接
+  "DOMAIN-SUFFIX,rutracker.org,🚀 节点选择", // Rutracker种子站
+
+  // 🛠️ 代理工具与网络服务
+  "DOMAIN-SUFFIX,clashverge.dev,🚀 节点选择", // ClashVerge代理客户端
+  "DOMAIN-SUFFIX,cloudfront.net,🚀 节点选择", // AWS CloudFront CDN
+  "DOMAIN-SUFFIX,www.googletagmanager.com,🚀 节点选择", // Google标签管理器
+  "DOMAIN-SUFFIX,translate.googleapis.com,🚀 节点选择", // Google翻译
+
+  // 🎯 游戏平台
+  "DOMAIN-SUFFIX,content-ui.battle.net,🚀 节点选择", // 暴雪战网
+  "DOMAIN-SUFFIX,dlcdn-rogboxbu1.asus.com,🚀 节点选择", // ROG游戏下载
+  "DOMAIN-SUFFIX,dlcdn-rogboxbu2.asus.com,🚀 节点选择", // ROG游戏下载
+  "DOMAIN-SUFFIX,rog-live-service.asus.com,🚀 节点选择", // ROG服务
+
+  // 💬 社交与通讯
+  "DOMAIN-SUFFIX,discord.gg,🚀 节点选择", // Discord游戏语音
+  "DOMAIN-SUFFIX,pndsn.com,🚀 节点选择", // PubNub实时通讯
+
+  // 🔍 其他工具
+  "DOMAIN-SUFFIX,aka.ms,🚀 节点选择", // Microsoft短链接
+  "DOMAIN-SUFFIX,http://104.26.1.140/,🚀 节点选择", // 特定IP
+  "DOMAIN-SUFFIX,captcha.bot,🚀 节点选择", // 验证码服务
+  "DOMAIN-SUFFIX,cpdd.one,🚀 节点选择", // CPDD工具
+  "DOMAIN-SUFFIX,cord.*,🚀 节点选择", // Cord相关
+  "DOMAIN-SUFFIX,sexinsex.net,🚀 节点选择", // 成人论坛
+
+  "GEOIP,CN,DIRECT,no-resolve",
+  "GEOSITE,cn,DIRECT",
+];
+
+// 默认测试网址
+//const test_url = "http://www.google.com/generate_204";
+// 测试网址检测间隔
+//const test_interval = 240;
+// 测试网址的间隔差值，超过这个差值就会切换节点，越小切换越频繁
+//const test_tolerance = 80;
+
+// 国内DNS服务器,只写最快的一个，写多了会导致访问速度变慢和内核内存占用变大
+const domesticNameservers = [
+  "tls://223.5.5.5", // 阿里云公共DNS
+];
+
+// 国外DNS服务器，同上
+const foreignNameservers = [
+  "tls://dns.opendns.com", // OpenDNS
+];
+
+// 代理规则
+const rules = [
+  // 自定义规则
+  ...customRules,
+  // 规则集
+  // "RULE-SET,ipdirect,全局直连,no-resolve",
+  // "RULE-SET,ipprivate,全局直连,no-resolve",
+  // "RULE-SET,telegramcidr,电报消息,no-resolve",
+  // "RULE-SET,direct,全局直连",
+  // "RULE-SET,private,全局直连",
+  // "RULE-SET,google,谷歌服务",
+  // "RULE-SET,apple,苹果服务",
+  // "RULE-SET,bing,Bing",
+  // "RULE-SET,github,Github",
+  // "RULE-SET,onedrive,Onedrive",
+  // "RULE-SET,microsoft,微软服务",
+  // "RULE-SET,ai,AI",
+  // "RULE-SET,youtube,YouTube",
+  // "RULE-SET,netflix_ip,Netflix",
+  // "RULE-SET,netflix_site,Netflix",
+  // "RULE-SET,tiktok,TikTok",
+  // "RULE-SET,adobe,Adobe",
+  // "RULE-SET,pornhub,Pornhub",
+  // "RULE-SET,spotify,Spotify",
+  // "RULE-SET,games,游戏服务",
+  // "RULE-SET,speedtest,网速测试",
+  // "RULE-SET,bilibili,Bilibili",
+  // "RULE-SET,proxy,节点选择",
+  // "RULE-SET,gfw,节点选择",
+  // "RULE-SET,tld-not-cn,节点选择",
+  // // 未匹配的规则
+  // "MATCH,漏网之鱼",
+];
+
+// DNS配置
+const dnsConfig = {
+  enable: true,
+  listen: "0.0.0.0:1053",
+  ipv6: true,
+  "use-system-hosts": true,
+  "cache-algorithm": "arc",
+  "enhanced-mode": "fake-ip",
+  "fake-ip-range": "198.18.0.1/16",
+  "fake-ip-filter": [
+    // 本地主机/设备
+    "+.lan",
+    "+.local",
+    // Windows网络出现小地球图标
+    "+.msftconnecttest.com",
+    "+.msftncsi.com",
+    // QQ快速登录检测失败
+    "localhost.ptlogin2.qq.com",
+    "localhost.sec.qq.com",
+    // 微信快速登录检测失败
+    "localhost.work.weixin.qq.com",
+    // 联通本地
+    "+.unicom.local",
+    "+.unicom.cn",
+    "+.chinaunicom.cn",
+  ],
+  "default-nameserver": ["223.5.5.5", "119.29.29.29", "1.1.1.1", "8.8.8.8"],
+  nameserver: [...domesticNameservers, ...foreignNameservers],
+  "proxy-server-nameserver": [...domesticNameservers, ...foreignNameservers],
+  "nameserver-policy": {
+    "geosite:private,cn,geolocation-cn": domesticNameservers,
+    "geosite:google,youtube,telegram,gfw,geolocation-!cn": foreignNameservers,
+  },
+};
+
+// 程序入口
+function main(config) {
+  const proxyCount = config?.proxies?.length ?? 0;
+  const proxyProviderCount =
+    typeof config?.["proxy-providers"] === "object"
+      ? Object.keys(config["proxy-providers"]).length
+      : 0;
+  if (proxyCount === 0 && proxyProviderCount === 0) {
+    throw new Error("配置文件中未找到任何代理");
+  }
+
+  // 配置
+  config["profile"] = {
+    "store-selected": true,
+    "store-fake-ip": true,
+  };
+  // Geo设置
+  config["geodata-loader"] = "standard";
+  config["geosite-matcher"] = "mph";
+  // 全局客户端指纹
+  config["global-client-fingerprint"] = "chrome";
+  config["global-ua"] = "chrome";
+  // 统一延迟
+  config["unified-delay"] = true;
+  // TCP 并发
+  config["tcp-concurrent"] = true;
+  // 日志级别（info/debug/warning/error/silent），供 /logs 接口导出日志使用
+  config["log-level"] = "info";
+  // 域名服务
+  config["foreign_nameservers"] = foreignNameservers;
+  config["domestic_nameservers"] = domesticNameservers;
+  // 规则
+  config.rules = [...customRules, ...config.rules];
+  // 覆盖原配置中DNS配置
+  config["dns"] = dnsConfig;
+  // 返回修改后的配置
+  return config;
+}
